@@ -1,24 +1,19 @@
-﻿namespace BunifuDataGrid
+﻿
+using System;
+
+namespace Kütüphane_otamasyonu
 {
-    partial class Form1
+    partial class form1
     {
         /// <summary>
         /// Required designer variable.
         /// </summary>
-        private System.ComponentModel.IContainer components = null;
 
         /// <summary>
         /// Clean up any resources being used.
         /// </summary>
         /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
-        protected override void Dispose(bool disposing)
-        {
-            if (disposing && (components != null))
-            {
-                components.Dispose();
-            }
-            base.Dispose(disposing);
-        }
+
 
         #region Windows Form Designer generated code
 
@@ -28,7 +23,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(AnaSAyfafrm));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(form1));
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.label2 = new System.Windows.Forms.Label();
             this.btnUyeListele = new System.Windows.Forms.Button();
@@ -94,7 +89,7 @@
             this.btnUyeListele.TabIndex = 0;
             this.btnUyeListele.Text = "Üye Lİsteleme İşlemleri";
             this.btnUyeListele.UseVisualStyleBackColor = false;
-            // this.btnUyeListele.Click += new System.EventHandler(this.btnUyeListele_Click);
+            this.btnUyeListele.Click += new System.EventHandler(this.btnUyeListele_Click);
             // 
             // btnUyeEkle
             // 
@@ -179,6 +174,7 @@
             this.groupBox3.Size = new System.Drawing.Size(450, 170);
             this.groupBox3.TabIndex = 0;
             this.groupBox3.TabStop = false;
+            this.groupBox3.Enter += new System.EventHandler(this.groupBox3_Enter);
             // 
             // label1
             // 
@@ -309,7 +305,6 @@
             this.label6.Size = new System.Drawing.Size(591, 26);
             this.label6.TabIndex = 9;
             this.label6.Text = "Aşağıdaki menüleri kullanarak işlemlerinizi gerçekleştiriniz...";
-            this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // label7
             // 
@@ -349,11 +344,11 @@
             this.btncıkıs.Name = "btncıkıs";
             this.btncıkıs.Size = new System.Drawing.Size(186, 33);
             this.btncıkıs.TabIndex = 56;
-            this.btncıkıs.Text = "çıkış";
+            this.btncıkıs.Text = "Çıkış";
             this.btncıkıs.UseVisualStyleBackColor = false;
             this.btncıkıs.Click += new System.EventHandler(this.btncıkıs_Click);
             // 
-            // AnaSAyfafrm
+            // form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -375,10 +370,10 @@
             this.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.HelpButton = true;
             this.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
-            this.Name = "AnaSAyfafrm";
+            this.Name = "form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Ana Sayfa";
-            this.Load += new System.EventHandler(this.AnaSAyfafrm_Load);
+            this.Load += new System.EventHandler(this.Form1_Shown);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.groupBox2.ResumeLayout(false);
@@ -421,6 +416,8 @@
         private System.Windows.Forms.PictureBox pictureBox3;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Button btncıkıs;
+
+
     }
 }
 

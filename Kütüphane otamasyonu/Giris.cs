@@ -1,5 +1,4 @@
-﻿using BunifuDataGrid;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -46,7 +45,7 @@ namespace Kütüphane_otamasyonu
             if (isThere)
             {
               
-                Form1 anasayfa = new  Form1();
+                form1 anasayfa = new  form1();
                 anasayfa.Show();
                 this.Hide();
 

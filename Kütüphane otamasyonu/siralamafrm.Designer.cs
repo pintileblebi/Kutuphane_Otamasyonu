@@ -37,6 +37,7 @@
             this.label16 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label12 = new System.Windows.Forms.Label();
+            this.btnDıs = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -120,12 +121,25 @@
             this.label12.TabIndex = 61;
             this.label12.Text = "Pintileblebi Yazılım A.Ş.";
             // 
+            // btnDıs
+            // 
+            this.btnDıs.BackColor = System.Drawing.Color.Yellow;
+            this.btnDıs.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btnDıs.Location = new System.Drawing.Point(500, 12);
+            this.btnDıs.Name = "btnDıs";
+            this.btnDıs.Size = new System.Drawing.Size(227, 42);
+            this.btnDıs.TabIndex = 64;
+            this.btnDıs.Text = "Microsoft Excel Dışarı Aktar";
+            this.btnDıs.UseVisualStyleBackColor = false;
+            this.btnDıs.Click += new System.EventHandler(this.btnDıs_Click);
+            // 
             // siralamafrm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnDıs);
             this.Controls.Add(this.label16);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label12);
@@ -154,5 +168,6 @@
         private System.Windows.Forms.Label label16;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label label12;
+        private System.Windows.Forms.Button btnDıs;
     }
 }

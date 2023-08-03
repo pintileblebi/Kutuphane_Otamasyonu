@@ -68,6 +68,7 @@
             this.label14 = new System.Windows.Forms.Label();
             this.label16 = new System.Windows.Forms.Label();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.btnDıs = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
@@ -466,12 +467,25 @@
             this.pictureBox3.TabIndex = 56;
             this.pictureBox3.TabStop = false;
             // 
+            // btnDıs
+            // 
+            this.btnDıs.BackColor = System.Drawing.Color.Yellow;
+            this.btnDıs.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btnDıs.Location = new System.Drawing.Point(654, 7);
+            this.btnDıs.Name = "btnDıs";
+            this.btnDıs.Size = new System.Drawing.Size(227, 42);
+            this.btnDıs.TabIndex = 64;
+            this.btnDıs.Text = "Microsoft Excel Dışarı Aktar";
+            this.btnDıs.UseVisualStyleBackColor = false;
+            this.btnDıs.Click += new System.EventHandler(this.btnDıs_Click);
+            // 
             // EmanetKitapVermecs
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
             this.ClientSize = new System.Drawing.Size(1023, 539);
+            this.Controls.Add(this.btnDıs);
             this.Controls.Add(this.label14);
             this.Controls.Add(this.label16);
             this.Controls.Add(this.pictureBox3);
@@ -541,5 +555,6 @@
         private System.Windows.Forms.Label label14;
         private System.Windows.Forms.Label label16;
         private System.Windows.Forms.PictureBox pictureBox3;
+        private System.Windows.Forms.Button btnDıs;
     }
 }

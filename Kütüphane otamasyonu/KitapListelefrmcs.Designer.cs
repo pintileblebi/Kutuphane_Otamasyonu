@@ -57,6 +57,7 @@
             this.label11 = new System.Windows.Forms.Label();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.label12 = new System.Windows.Forms.Label();
+            this.btnDıs = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             this.SuspendLayout();
@@ -344,12 +345,25 @@
             this.label12.TabIndex = 52;
             this.label12.Text = "Pintileblebi Yazılım A.Ş.";
             // 
+            // btnDıs
+            // 
+            this.btnDıs.BackColor = System.Drawing.Color.Yellow;
+            this.btnDıs.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btnDıs.Location = new System.Drawing.Point(1267, 29);
+            this.btnDıs.Name = "btnDıs";
+            this.btnDıs.Size = new System.Drawing.Size(227, 42);
+            this.btnDıs.TabIndex = 63;
+            this.btnDıs.Text = "Microsoft Excel Dışarı Aktar";
+            this.btnDıs.UseVisualStyleBackColor = false;
+            this.btnDıs.Click += new System.EventHandler(this.btnDıs_Click);
+            // 
             // KitapListelefrm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.MediumAquamarine;
             this.ClientSize = new System.Drawing.Size(1636, 501);
+            this.Controls.Add(this.btnDıs);
             this.Controls.Add(this.label12);
             this.Controls.Add(this.label11);
             this.Controls.Add(this.pictureBox3);
@@ -419,5 +433,6 @@
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.PictureBox pictureBox3;
         private System.Windows.Forms.Label label12;
+        private System.Windows.Forms.Button btnDıs;
     }
 }

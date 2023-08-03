@@ -55,6 +55,7 @@
             this.label10 = new System.Windows.Forms.Label();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.label12 = new System.Windows.Forms.Label();
+            this.btnDıs = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             this.SuspendLayout();
@@ -330,12 +331,25 @@
             this.label12.TabIndex = 54;
             this.label12.Text = "Pintileblebi Yazılım A.Ş.";
             // 
+            // btnDıs
+            // 
+            this.btnDıs.BackColor = System.Drawing.Color.Yellow;
+            this.btnDıs.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btnDıs.Location = new System.Drawing.Point(919, 27);
+            this.btnDıs.Name = "btnDıs";
+            this.btnDıs.Size = new System.Drawing.Size(302, 42);
+            this.btnDıs.TabIndex = 55;
+            this.btnDıs.Text = "Microsoft Excel Dışarı Aktar";
+            this.btnDıs.UseVisualStyleBackColor = false;
+            this.btnDıs.Click += new System.EventHandler(this.btnDıs_Click);
+            // 
             // uyelistelemefrm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.ClientSize = new System.Drawing.Size(1539, 382);
+            this.Controls.Add(this.btnDıs);
             this.Controls.Add(this.label12);
             this.Controls.Add(this.label10);
             this.Controls.Add(this.pictureBox3);
@@ -401,5 +415,6 @@
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.PictureBox pictureBox3;
         private System.Windows.Forms.Label label12;
+        private System.Windows.Forms.Button btnDıs;
     }
 }
