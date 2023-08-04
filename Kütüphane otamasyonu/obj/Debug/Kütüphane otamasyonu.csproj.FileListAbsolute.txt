@@ -48,3 +48,30 @@ C:\Users\Gazi\Desktop\Kütüphane otamasyonu\Kütüphane otamasyonu\bin\Debug\it
 C:\Users\Gazi\Desktop\Kütüphane otamasyonu\Kütüphane otamasyonu\bin\Debug\itextsharp.xml
 C:\Users\Gazi\Desktop\Kütüphane otamasyonu\Kütüphane otamasyonu\obj\Debug\Kütüphane otamasyonu.csproj.CopyComplete
 C:\Users\Gazi\Desktop\Kütüphane otamasyonu\Kütüphane otamasyonu\obj\Debug\Kütüphane otamasyonu.csproj.ResolveComReference.cache
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\bin\Debug\Kütüphane otamasyonu.exe.config
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\bin\Debug\Kütüphane otamasyonu.exe
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\bin\Debug\Kütüphane otamasyonu.pdb
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\bin\Debug\itextsharp.dll
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\bin\Debug\itextsharp.xml
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Debug\Kütüphane otamasyonu.csproj.AssemblyReference.cache
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Debug\Kütüphane otamasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Debug\Kütüphane otamasyonu.csproj.ResolveComReference.cache
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Debug\Kütüphane_otamasyonu.bizkimiz.resources
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Debug\Kütüphane_otamasyonu.EmanetKitapListelefrm.resources
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Debug\Kütüphane_otamasyonu.EmanetKitapVermecs.resources
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Debug\Kütüphane_otamasyonu.EmanetKitapİaedefrm.resources
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Debug\Kütüphane_otamasyonu.form1.resources
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Debug\Kütüphane_otamasyonu.Giris.resources
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Debug\Kütüphane_otamasyonu.KitapEklefrmcs.resources
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Debug\Kütüphane_otamasyonu.KitapListelefrm.resources
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Debug\Kütüphane_otamasyonu.Properties.Resources.resources
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Debug\Kütüphane_otamasyonu.siralamafrm.resources
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Debug\Kütüphane_otamasyonu.sonuçlar.resources
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Debug\Kütüphane_otamasyonu.UyeEkleFrm.resources
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Debug\Kütüphane_otamasyonu.uyelistelemefrm.resources
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Debug\Kütüphane otamasyonu.csproj.GenerateResource.cache
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Debug\Kütüphane otamasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Debug\Kütüphane otamasyonu.csproj.CopyComplete
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Debug\Kütüphane otamasyonu.exe
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Debug\Kütüphane otamasyonu.pdb

@@ -333,11 +333,11 @@
             // 
             // btnDıs
             // 
-            this.btnDıs.BackColor = System.Drawing.Color.Yellow;
+            this.btnDıs.BackColor = System.Drawing.Color.Gold;
             this.btnDıs.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnDıs.Location = new System.Drawing.Point(919, 27);
+            this.btnDıs.Location = new System.Drawing.Point(1183, 25);
             this.btnDıs.Name = "btnDıs";
-            this.btnDıs.Size = new System.Drawing.Size(302, 42);
+            this.btnDıs.Size = new System.Drawing.Size(225, 42);
             this.btnDıs.TabIndex = 55;
             this.btnDıs.Text = "Microsoft Excel Dışarı Aktar";
             this.btnDıs.UseVisualStyleBackColor = false;

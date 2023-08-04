@@ -347,7 +347,7 @@
             // 
             // btnDıs
             // 
-            this.btnDıs.BackColor = System.Drawing.Color.Yellow;
+            this.btnDıs.BackColor = System.Drawing.Color.Gold;
             this.btnDıs.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.btnDıs.Location = new System.Drawing.Point(1267, 29);
             this.btnDıs.Name = "btnDıs";
