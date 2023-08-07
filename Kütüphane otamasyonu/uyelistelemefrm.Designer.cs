@@ -339,7 +339,7 @@
             this.btnDıs.Name = "btnDıs";
             this.btnDıs.Size = new System.Drawing.Size(225, 42);
             this.btnDıs.TabIndex = 55;
-            this.btnDıs.Text = "Microsoft Excel Dışarı Aktar";
+            this.btnDıs.Text = "Dışarı Aktar";
             this.btnDıs.UseVisualStyleBackColor = false;
             this.btnDıs.Click += new System.EventHandler(this.btnDıs_Click);
             // 

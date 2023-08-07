@@ -18,10 +18,12 @@ namespace Kütüphane_otamasyonu
         {
             InitializeComponent();
         }
+       
         bool isThere;
         SqlConnection connection = new SqlConnection("Data Source=pinti\\SQLEXPRESS;Initial Catalog=giris;Integrated Security=TRUE");
         private void btnLogin_Click(object sender, EventArgs e)
         {
+            
             string username = txtKulAd.Text;
             string pass = txtŞifre.Text;
 
@@ -56,8 +58,17 @@ namespace Kütüphane_otamasyonu
                 MessageBox.Show("giris yapılamadı", "program");
                 this.Hide();
             }
+            
+
+            // Mesaj içeriği ve başlık belirleyin
+
+
 
         }
+
+       
+
+
 
         private void Giris_Load(object sender, EventArgs e)
         {

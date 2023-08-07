@@ -25,7 +25,7 @@ namespace Kütüphane_otamasyonu
 
         private void btnUyeEkle_Click(object sender, EventArgs e)
         {
-            uyelistelemefrm uye = new uyelistelemefrm();
+            UyeEkleFrm uye = new UyeEkleFrm();
             uye.ShowDialog();
         }
 

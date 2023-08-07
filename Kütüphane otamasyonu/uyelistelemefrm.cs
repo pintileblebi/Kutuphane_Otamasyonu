@@ -228,7 +228,7 @@ namespace Kütüphane_otamasyonu
                 baglanti.Close();
                 MessageBox.Show("Güncelleme işlemi gerçekleşti");
 
-                daset.Tables["uye"].Clear();
+                daset.Tables["Uye"].Clear();
                 uyelistele();
                 foreach (Control item in Controls)
                 {

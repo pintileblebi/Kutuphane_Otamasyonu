@@ -268,9 +268,9 @@
             // 
             this.btnSil.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
             this.btnSil.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnSil.Location = new System.Drawing.Point(1500, 92);
+            this.btnSil.Location = new System.Drawing.Point(1511, 92);
             this.btnSil.Name = "btnSil";
-            this.btnSil.Size = new System.Drawing.Size(124, 42);
+            this.btnSil.Size = new System.Drawing.Size(113, 42);
             this.btnSil.TabIndex = 46;
             this.btnSil.Text = "Sil";
             this.btnSil.UseVisualStyleBackColor = false;
@@ -349,11 +349,11 @@
             // 
             this.btnDıs.BackColor = System.Drawing.Color.Gold;
             this.btnDıs.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnDıs.Location = new System.Drawing.Point(1267, 29);
+            this.btnDıs.Location = new System.Drawing.Point(1434, 31);
             this.btnDıs.Name = "btnDıs";
-            this.btnDıs.Size = new System.Drawing.Size(227, 42);
+            this.btnDıs.Size = new System.Drawing.Size(190, 42);
             this.btnDıs.TabIndex = 63;
-            this.btnDıs.Text = "Microsoft Excel Dışarı Aktar";
+            this.btnDıs.Text = " Dışarı Aktar";
             this.btnDıs.UseVisualStyleBackColor = false;
             this.btnDıs.Click += new System.EventHandler(this.btnDıs_Click);
             // 
