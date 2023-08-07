@@ -12,4 +12,6 @@ Bu README dosyası, projenin amacı ve nasıl kullanılacağı hakkında temel b
 - Kitap durumunu izleme
 - Raporlama ve istatistikler
 
+NOT:Giriş ekranında kullanıcı adı:admin şifre:pass olarak kodlanmıştır ancak bu bilgileri kullanarak giriş sağlıyabilirsiniz.
+
 
