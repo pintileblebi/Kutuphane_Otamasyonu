@@ -1,0 +1,27 @@
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\bin\Release\Kütüphane otamasyonu.exe.config
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\bin\Release\Kütüphane otamasyonu.exe
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\bin\Release\Kütüphane otamasyonu.pdb
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\bin\Release\itextsharp.dll
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\bin\Release\itextsharp.xml
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Release\Kütüphane otamasyonu.csproj.AssemblyReference.cache
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Release\Kütüphane otamasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Release\Kütüphane otamasyonu.csproj.ResolveComReference.cache
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Release\Kütüphane_otamasyonu.bizkimiz.resources
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Release\Kütüphane_otamasyonu.EmanetKitapListelefrm.resources
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Release\Kütüphane_otamasyonu.EmanetKitapVermecs.resources
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Release\Kütüphane_otamasyonu.EmanetKitapİaedefrm.resources
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Release\Kütüphane_otamasyonu.form1.resources
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Release\Kütüphane_otamasyonu.Giris.resources
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Release\Kütüphane_otamasyonu.KitapEklefrmcs.resources
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Release\Kütüphane_otamasyonu.KitapListelefrm.resources
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Release\Kütüphane_otamasyonu.Properties.Resources.resources
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Release\Kütüphane_otamasyonu.siralamafrm.resources
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Release\Kütüphane_otamasyonu.sonuçlar.resources
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Release\Kütüphane_otamasyonu.UyeEkleFrm.resources
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Release\Kütüphane_otamasyonu.uyelistelemefrm.resources
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Release\Kütüphane otamasyonu.csproj.GenerateResource.cache
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Release\Kütüphane otamasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Release\Kütüphane otamasyonu.csproj.CopyComplete
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Release\Kütüphane otamasyonu.exe
+C:\Users\Gazi\Desktop\windwos form sql\Kütüphane otamasyonu\Kutuphane_Otamasyonu\Kütüphane otamasyonu\obj\Release\Kütüphane otamasyonu.pdb
